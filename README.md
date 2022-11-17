@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning about everything<br>
 
+![snake gif](https://github.com/Widitra/Widitra/blob/output/github-contribution-grid-snake.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/widitra.rama) 
